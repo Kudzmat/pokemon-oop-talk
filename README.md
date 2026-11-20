@@ -2,8 +2,8 @@
 
 **The four pillars of Object-Oriented Programming in Python, explained with Charmander, Squirtle, and Bulbasaur.**
 
-Companion repository for the talk *"Super Effective: How Pokemon explain Python’s class Hierachy"* by [Kudzayi Bamhare],
-presented at [PyCon ZA, 2026]. It contains the slides, a step-by-step
+Companion repository for the talk *"Super Effective: How Pokemon explain Python’s class Hierachy"* by Kudzayi Bamhare,
+presented at PyCon ZA, 2026. It contains the slides, a step-by-step
 set of code examples, and a small playable game that uses all four pillars.
 
 | Pillar | The idea | The Pokémon version |
@@ -32,7 +32,7 @@ pokemon-oop-talk/
 Requires **Python 3.8 or newer**. There are no dependencies to install.
 
 ```bash
-git clone https://github.com/[Kudzmat]/pokemon-oop-talk.git
+git clone https://github.com/Kudzmat/pokemon-oop-talk.git
 cd pokemon-oop-talk
 
 # Walk through the pillars one at a time
@@ -93,7 +93,7 @@ This is open source, and it is also my work. I'd like it to stay that way.
 
 A suggested credit line:
 
-> "Super Effective: How Pokemon explain Python’s class Hierachy" by [Your Name], originally presented at [PyCon ZA, 2026]. https://github.com/[Kudzmat]/pokemon-oop-talk
+> "Super Effective: How Pokemon explain Python’s class Hierachy" by Kudzayi Bamhare, originally presented at PyCon ZA, 2026. https://github.com/Kudzmat/pokemon-oop-talk
 
 ## Contributing
 
@@ -112,4 +112,4 @@ trademarks or artwork.
 
 ## Contact
 
-[Kudzayi Bamhare] · [kudzi.bam@gmail.com] · [@Kudzmat]
+Kudzayi Bamhare · kudzi.bam@gmail.com · @Kudzmat
