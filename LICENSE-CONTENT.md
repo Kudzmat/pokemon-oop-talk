@@ -2,7 +2,7 @@
 
 The slides, speaker notes, and written teaching materials in this repository
 (everything in `slides/`, plus the prose in this repo's documentation) are
-© 2026 [Your Name] and licensed under the
+© 2026 [Kudzayi Bamhare]'s' and licensed under the
 **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
 
 ## What this means
@@ -20,9 +20,9 @@ Under these terms:
 
 ## Suggested credit line
 
-> "Gotta Abstract 'Em All" by [Your Name], originally presented at
-> [Conference Name, Year]. Licensed under CC BY 4.0.
-> https://github.com/[your-username]/pokemon-oop-talk
+> "Super Effective: How Pokemon explain Python’s class Hierachy" by [Kudzayi Bamhare], originally presented at
+> [PyCon ZA, 2026]. Licensed under CC BY 4.0.
+> https://github.com/[Kudzmat]/pokemon-oop-talk
 
 Teachers and trainers are very welcome to use these materials in class. A
 credit line on the title slide or in the course notes is all that is needed.

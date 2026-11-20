@@ -1,13 +1,13 @@
 # Code of Conduct
 
-## Our pledge
+## Pledge
 
 This project exists to make programming concepts friendlier and more fun to
-learn. We want everyone who uses it, whether as a student, a teacher, or a
-contributor, to feel welcome, regardless of experience level, background, or
+learn. The goal is to make everyone who uses it, whether as a student, a teacher, or a
+contributor, feel welcome, regardless of experience level, background, or
 identity.
 
-## What we expect
+## Expectation
 
 - Be kind, patient, and respectful. Everyone here is learning something.
 - Give feedback that is constructive and specific, and receive it graciously.
@@ -17,7 +17,7 @@ identity.
 ## Respect for others' work
 
 This project is open source, and you are encouraged to use, teach with, and
-build on it. In return, we ask that you:
+build on it. In return, I ask that you:
 
 - **Credit the author.** Keep the copyright notice with the code (MIT License),
   and credit the slides and teaching materials as described in
@@ -46,7 +46,7 @@ public.
 
 If you experience or witness unacceptable behavior, or have concerns about
 credit and attribution, please contact the maintainer at
-**[your-email@example.com]**. Reports will be handled promptly and
+**[kudzi.bam@gmail.com]**. Reports will be handled promptly and
 respectfully.
 
 Maintainers may edit, remove, or reject comments, commits, issues, and other
